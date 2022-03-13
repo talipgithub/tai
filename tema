@@ -1,4 +1,56 @@
-# tai
+/*!
+Theme Name: Zakra
+Theme URI: https://zakratheme.com/
+Author: ThemeGrill
+Author URI: https://themegrill.com
+Description: Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites (currently 10+ free starter sites and more will be added later) that you can use to make your site beautiful and professional. Check all the starter sites at https://zakratheme.com/demos. Suitable for personal blog, portfolio, WooCommerce stores, business websites and niche-based sites (like Cafe, Spa, Charity, Yoga, Wedding, Dentist, Education etc) as well. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible.
+Version: 2.0.9
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: zakra
+Tags: one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, news, e-commerce, rtl-language-support
+
+Zakra is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
+*/
+/**
+*
+* TABLE OF CONTENT
+# Reset
+# Typography
+# Elements
+# Forms
+# Navigations
+# Modules
+# Icons
+# Accessibility
+# Alignments
+# Clearings
+# Header
+# Widgets
+# Content
+# Posts and Pages
+# Asides
+# Comments
+# Footer
+# Media
+# captions
+# galleries
+# Media Queries
+# Mobile
+# Tablets
+# Computers
+# Print
+*
+*/
+/*=============================================
+=            Normalize            =
+=============================================*/
 wordpress tema
 h1,
 h2,
