@@ -1,2 +1,0 @@
-# tai
-wordpress tema
